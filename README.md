@@ -364,3 +364,4 @@ https://github.com/Caddyshack2175/nuclei-custom-templates
 
 https://github.com/0xc4sper0/Nuclei-templates
 
+https://github.com/linuxadi/40k-nuclei-templates
